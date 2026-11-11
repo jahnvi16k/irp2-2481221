@@ -1,0 +1,14 @@
+Input:
+5 6
+1 2 3 4 5
+Expected Output: 2
+
+Input:
+4 10
+1 9 2 8
+Expected Output: 2
+
+Input:
+3 5
+1 2 3
+Expected Output: 1

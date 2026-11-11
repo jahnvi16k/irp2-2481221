@@ -1,0 +1,8 @@
+Input: I love coding.
+Expected Output: coding. love I
+
+Input: Python is easy
+Expected Output: easy is Python
+
+Input: I am learning DSA
+Expected Output: DSA learning am I

@@ -1,0 +1,8 @@
+Input: 9875
+Expected Output: 29
+
+Input: 1234
+Expected Output: 10
+
+Input: 500
+Expected Output: 5
